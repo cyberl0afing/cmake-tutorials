@@ -1,0 +1,2 @@
+/home/cyberloafing/code/cmake-tutorials/01-find-package/build/CMakeFiles/rebuild_cache.dir
+/home/cyberloafing/code/cmake-tutorials/01-find-package/build/CMakeFiles/edit_cache.dir
